@@ -2,11 +2,6 @@
 *.pth
 
 # data
-*.jpg
-*.png
-*.json
-
-#수정하지 마세요.
 data/
 datasets/
 
